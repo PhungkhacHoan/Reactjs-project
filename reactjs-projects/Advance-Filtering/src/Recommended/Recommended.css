@@ -1,6 +1,7 @@
 .recommended-flex {
     display: flex;
     margin-left: 20rem; 
+    font-family: sans-serif;
 }
 
 .recommended-title {

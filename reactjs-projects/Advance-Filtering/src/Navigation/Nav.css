@@ -4,10 +4,11 @@ nav {
     justify-content: space-around;
     align-items: center;
     padding: 20px;
-    z-index: 999;
-    margin-left: 2rem;
+    z-index: 999;    
 }
-
+.nav-container {
+    margin-left: 3rem;
+}
 input {
     padding: 12px 20px;
     border: none ;
